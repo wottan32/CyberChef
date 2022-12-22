@@ -106,7 +106,7 @@
     "js-sha3": "^0.8.0",
     "jsesc": "^2.5.2",
     "jsonpath": "^1.0.0",
-    "jsonwebtoken": "^8.4.0",
+    "jsonwebtoken": "^9.0.0",
     "jsqr": "^1.1.1",
     "jsrsasign": "8.0.12",
     "kbpgp": "^2.0.82",
